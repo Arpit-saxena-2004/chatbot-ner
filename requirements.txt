@@ -1,0 +1,13 @@
+# Core Streamlit App
+streamlit==1.31.1
+
+# Data Processing
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+
+# NLP Libraries
+spacy==3.7.2
+transformers==4.41.1
+torch==2.3.0
+sentencepiece==0.2.0
